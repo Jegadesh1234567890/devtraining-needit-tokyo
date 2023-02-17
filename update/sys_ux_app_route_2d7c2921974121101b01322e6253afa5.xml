@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="TB App Config">e4f5ae1d53e020106c4bddeeff7b1202</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>etew</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="">9c23cb5d532420106c4bddeeff7b127b</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>etew</route_type>
+        <screen_type display_value="etew">d97ce521974121101b01322e6253af29</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-16 04:52:55</sys_created_on>
+        <sys_id>2d7c2921974121101b01322e6253afa5</sys_id>
+        <sys_name>etew</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_2d7c2921974121101b01322e6253afa5</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=2d7c2921974121101b01322e6253afa5"/>
+</record_update>
